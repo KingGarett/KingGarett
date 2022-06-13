@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Javier</h1>
 <h3 align="center">A passionate frontend developer from Argentina</h3>
 
-- 🌱 I’m currently learning **Flex-Boxs - Grids**
+- 🌱 I’m currently learning **Grids**
 
-- 💬 Ask me about **HTML - CSS - JavaScript**
+- 💬 Ask me about **HTML - CSS/Flex-box - JavaScript**
 
 - 📫 How to reach me **carlosjavier094@gmail.com**
 
