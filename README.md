@@ -3,7 +3,10 @@
 
 - 🌱 I’m currently learning **Grids - NodeJs **
 
-- 💬 Ask me about **HTML - CSS/Flex-box - JavaScript**
+- 💬 Ask me about **
+-  HTML 
+-  CSS /* Flex-box / Grid / Mobile-Desktop First / BEM */
+-  JavaScript**
 
 - 📫 How to reach me **carlosjavier094@gmail.com**
 
