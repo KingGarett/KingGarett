@@ -1,12 +1,20 @@
 <h1 align="center">Hi 👋, I'm Javier</h1>
 <h3 align="center">A passionate frontend developer from Argentina</h3>
 
-- 🌱 I’m currently learning **JavaScript Deep - NodeJs **
+- 🌱 I’m currently learning **JavaScript Deep **
 
 - 💬 Ask me about **
--  HTML 
--  CSS /* Flex-box / Grid / Mobile-Desktop First / BEM */
--  JavaScript**
+- Flex-box
+- Grid
+- Layout Mobile-First / Desktop-First
+- BEM
+- Atomic Design
+ -------------------------------------
+- DOM – IIFE – Scope – Arrow function – local storage
+- RegEx
+- API’s
+- POO
+- CRUD -- async/await -- Try/catch
 
 - 📫 How to reach me **carlosjavier094@gmail.com**
 
