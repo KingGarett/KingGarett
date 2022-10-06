@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Javier</h1>
+<h1 align="center">Hi 👋,</h1>
 <h3 align="center">A passionate frontend developer from Argentina</h3>
 
 - 🌱 I’m currently learning **JavaScript Deep **
@@ -16,7 +16,7 @@
 - POO
 - CRUD -- async/await -- Try/catch
 
-- 📫 How to reach me **carlosjavier094@gmail.com**
+- 📫 How to reach me ****
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
