@@ -1,10 +1,10 @@
-<h1 align="center">Hi 👋,</h1>
+<h1 align="center">Hi 👋,I'm Javier</h1>
 <h3 align="center">A passionate frontend developer from Argentina</h3>
 
 - 🌱 I’m currently learning **React Deep **
 
 - 💬 Ask me about **
-- React;
+- React; <img src='https://you.com/proxy?url=https%3A%2F%2Ftse2.mm.bing.net%2Fth%3Fid%3DOIP.izeeH1D_pMcVIGTX3uzbugHaG8%26w%3D222%26c%3D7%26pid%3DApi%26p%3D0'></img>
 - Tailwind
 - Firebase
 
