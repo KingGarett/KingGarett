@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning **React Deep **
 
 - 💬 Ask me about **
-- React; <img src="[https%3A%2F%2Ftse2.mm.bing.net%2Fth%3Fid%3DOIP.izeeH1D_pMcVIGTX3uzbugHaG8%26w%3D222%26c%3D7%26pid%3DApi%26p%3D0](https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg)" />
+- React; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" />
 - Tailwind
 - Firebase
 
