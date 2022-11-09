@@ -1,20 +1,12 @@
 <h1 align="center">Hi 👋,</h1>
 <h3 align="center">A passionate frontend developer from Argentina</h3>
 
-- 🌱 I’m currently learning **JavaScript Deep **
+- 🌱 I’m currently learning **React Deep **
 
 - 💬 Ask me about **
-- Flex-box
-- Grid
-- Layout Mobile-First / Desktop-First
-- BEM
-- Atomic Design
- -------------------------------------
-- DOM – IIFE – Scope – Arrow function – local storage
-- RegEx
-- API’s
-- POO
-- CRUD -- async/await -- Try/catch
+- React;
+- Tailwind
+- Firebase
 
 - 📫 How to reach me ****
 
